@@ -1,7 +1,5 @@
 #include <GL/glut.h>
-#include <GL/glu.h>
 #include <cmath>
-#include <iostream>
 
 // Definisikan PI untuk perhitungan sudut
 #ifndef M_PI

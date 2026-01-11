@@ -1,0 +1,10 @@
+# Build output
+bin/
+*.exe
+*.dll
+
+# VS Code
+.vscode/
+
+# Library
+lib/
